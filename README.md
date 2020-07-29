@@ -1,4 +1,4 @@
-# CSS-383-Project-1
+# DNA-Similarity-Percentage-Calculator
 Determining Genomic differences between 17 different Acipenser species in the Eastern and Western Hemispheres.
 
 ![image](https://user-images.githubusercontent.com/46097517/81871796-6479eb00-952d-11ea-848b-af42f242f333.png)
